@@ -10,8 +10,8 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "eclassmobile",
-    "presets" : {"url": "http://e-class.co/ar/", "username": ""},
-    "siteurl": "http://e-class.co/ar/",
+    "presets" : {"url": "https://e-class.co/ar/", "username": ""},
+    "siteurl": "https://e-class.co/ar/",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
