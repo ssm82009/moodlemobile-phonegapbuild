@@ -2,10 +2,10 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.eclass.eclassmobile"
+        id        = "com.eclass.moodlemobile"
         versionCode = "20170"
         version   = "3.2.1">
-    <name>eClass</name>
+    <name>المدرسة الذكية</name>
 
     <description>
         eClass Mobile official app
