@@ -1,5 +1,5 @@
 {
-    "app_id" : "com.eclass.eclassmobile",
+    "app_id" : "com.eclass.moodlemobile",
     "appname": "المدرسةالذكية",
     "versioncode" : "2017",
     "versionname" : "3.2.1",
@@ -9,8 +9,8 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
-    "customurlscheme": "eclassmobile",
-    "siteurl": "",
+    "customurlscheme": "moodlemobile",
+    "siteurl": "http://e-class.co/ar",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
